@@ -1,0 +1,27 @@
+{
+    "name": "cdlib-rabbitmq",
+    "version": "0.0.1",
+    "description": "utils use for rabbitmq",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Craig David",
+    "license": "MIT",
+    "dependencies": {
+        "amqplib": "^0.3.2",
+        "when": "^3.7.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/herohead049/cdlib-rabbitmq.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/herohead049/cdlib-rabbitmq/issues"
+    },
+    "homepage": "https://github.com/herohead049/cdlib-rabbitmq#readme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
